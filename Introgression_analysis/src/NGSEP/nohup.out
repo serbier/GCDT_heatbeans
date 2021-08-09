@@ -1,0 +1,39 @@
+Jul 30, 2021 10:41:36 PM ngsep.vcf.VCFWindowIntrogressionAnalysis logParameters
+INFO: VCF input file: /home/scruz/GCDT/F56/NGSEP_introgression/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated.vcf.gz
+Populations information file: /home/scruz/GCDT/F56/NGSEP_introgression/data/groups.txt
+Prefix for output files: GCDT_Acu_vul
+Minimim percentage of variants genotyped: 80.0
+Minimum difference in allele frequencies to call a variant segregating: 0.6
+Maximum MAF within a group to call a variant segregating: 0.4
+Number of variants per window: 50
+Overlap between windows: 0
+Score for a genotype match between a sample haplotype and a population major allele: 1
+Score for a genotype mismatch between a sample haplotype and a population major allele: -1
+Minimum score to assign a sample haplotype to a population: 30
+Output a VCF file with the variants showing segregation between at least two populations
+Report introgression events for unassigned haplotypes
+
+Jul 30, 2021 10:41:36 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr01
+Jul 30, 2021 10:42:06 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr02
+Jul 30, 2021 10:42:10 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr03
+Jul 30, 2021 10:42:42 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr04
+Jul 30, 2021 10:42:46 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr05
+Jul 30, 2021 10:42:52 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr06
+Jul 30, 2021 10:43:00 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr07
+Jul 30, 2021 10:43:05 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr08
+Jul 30, 2021 10:43:18 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr09
+Jul 30, 2021 10:43:26 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr10
+Jul 30, 2021 10:43:34 PM ngsep.vcf.VCFWindowIntrogressionAnalysis runIntrogressions
+INFO: Starting sequence: Chr11
+Jul 30, 2021 10:43:40 PM ngsep.vcf.VCFWindowIntrogressionAnalysis run
+INFO: Process finished

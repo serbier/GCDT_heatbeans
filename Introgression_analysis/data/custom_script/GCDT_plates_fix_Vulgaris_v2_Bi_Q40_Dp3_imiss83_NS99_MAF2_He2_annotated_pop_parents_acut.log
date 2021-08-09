@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf ./../..//genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated.vcf.gz
+	--keep ./../..//data/custom_script/pop_parents_acut.txt
+	--freq
+	--out ./../..//data/custom_script/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated_pop_parents_acut
+
+Using zlib version: 1.2.8
+Keeping individuals in 'keep' list
+After filtering, kept 2 out of 269 Individuals
+Outputting Frequency Statistics...
+After filtering, kept 36839 out of a possible 36839 Sites
+Run Time = 5.00 seconds
