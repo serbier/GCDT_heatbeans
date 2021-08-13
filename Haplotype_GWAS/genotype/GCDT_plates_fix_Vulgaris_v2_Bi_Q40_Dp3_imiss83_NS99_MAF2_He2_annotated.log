@@ -1,0 +1,41 @@
+PLINK v1.90b6.18 64-bit (16 Jun 2020)
+Options in effect:
+  --allow-extra-chr
+  --double-id
+  --make-bed
+  --out ./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated
+  --vcf ./../../data/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated.vcf.gz
+
+Hostname: bioinfo
+Working directory: /bioinfo1/projects/bean/GCDT_F5.6/GCDT_heatbeans/Haplotype_GWAS/src
+Start time: Wed Aug 11 19:42:19 2021
+
+Random number seed: 1628728939
+257919 MB RAM detected; reserving 128959 MB for main workspace.
+--vcf:
+./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated-temporary.bed
++
+./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated-temporary.bim
++
+./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated-temporary.fam
+written.
+36839 variants loaded from .bim file.
+269 people (0 males, 0 females, 269 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated.nosex
+.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 269 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.710767.
+36839 variants and 269 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to
+./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated.bed
++
+./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated.bim
++
+./../../Haplotype_GWAS/genotype/GCDT_plates_fix_Vulgaris_v2_Bi_Q40_Dp3_imiss83_NS99_MAF2_He2_annotated.fam
+... done.
+
+End time: Wed Aug 11 19:42:21 2021
